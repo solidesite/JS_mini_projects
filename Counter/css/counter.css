@@ -9,8 +9,6 @@
   justify-content: center;
   margin-top: 50px;
 }
-.wrapper h1 {
-}
 .wrapper p {
   font-size: 50px;
   margin-top: 15px;
@@ -25,15 +23,4 @@
   color: #fff;
   font-size: 10px;
   cursor: pointer;
-}
-.box {
-  width: 50px;
-  height: 50px;
-  background-color: rosybrown;
-}
-.red {
-  background-color: red;
-}
-.btn_up {
-  
 }
